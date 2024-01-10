@@ -1,0 +1,39 @@
+.emi-calculator {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #f3d009;
+  background-color: #f3d009;
+  border-radius: 5px;
+ }
+ 
+ .input-field {
+  margin-bottom: 15px;
+ }
+ 
+ .input-field label {
+  display: block;
+  margin-bottom: 5px;
+ }
+ 
+ .input-field input {
+  width: 100%;
+  padding: 5px;
+  font-size: 14px;
+ }
+ 
+ button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #0fe090;
+  color: #304d06;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+ }
+ 
+ button:hover {
+  background-color: #7a0ce0;
+ }
